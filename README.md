@@ -1,4 +1,4 @@
-![Banner](images/portada-web.png)
+![Banner](https://gitlab.com/Wolf21/my-curriculum/-/blob/master/images/portada-web.png)
 # Título del Proyecto
 ### Curriculum Vitae
 
