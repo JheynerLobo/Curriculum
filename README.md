@@ -29,4 +29,4 @@
 #### Autor(es)
 - Realizado por: [Jheyner Lobo](<jheyneralexanderld@ufps.edu.co>)
 #### Institución Educativa
-- Proyecto desarrollado en la materia de programación web en la carrera de [Ingeniería de Sistemas](https://ingsistemas.cloud.ufps.edu.co/) de la [Universidad Francisco de Paula Santander] (https://ww2.ufps.edu.co/)
+- Proyecto desarrollado en la materia de programación web en la carrera de [Ingeniería de Sistemas](https://ingsistemas.cloud.ufps.edu.co/) de la [Universidad Francisco de Paula Santander](https://ww2.ufps.edu.co/)
