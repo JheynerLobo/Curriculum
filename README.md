@@ -15,7 +15,7 @@
 
 
 #### Características
-Uso de Css recomendado : [ver] (https://gitlab.com/Wolf21/my-curriculum/-/tree/master/css)
+- Uso de Css recomendado : [ver](https://gitlab.com/Wolf21/my-curriculum/-/tree/master/css)
 #### Contenido
 #### Tecnologías
 #### IDE
