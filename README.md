@@ -1,1 +1,1 @@
-![Banner](imagenes/portada-web.png)
+![Banner](images/portada-web.png)
