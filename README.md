@@ -11,7 +11,7 @@
 5. [Instalación](#instalación)
 6. [Demo](#demo)
 7. [Autor(es)](#autores)
-8. [Institución Académica](#institución-académica)
+8. [Institución Académica](#institución-educativa)
 
 
 #### Características
