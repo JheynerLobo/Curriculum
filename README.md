@@ -4,7 +4,7 @@
 
 ## Índice
 
-1.[Características del proyecto] 
+1. [Características del proyecto](#características)
 
 
 
