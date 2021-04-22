@@ -5,12 +5,12 @@
 ## Índice
 
 1. [Características del proyecto](#características)
-2. [Contenido del proyecto]()
-3. [Tecnologías]()
-4. [IDE]()
-5. [Instalación]()
-6. [Demo]()
-7. [Autor(es)]()
+2. [Contenido del proyecto](#contenido)
+3. [Tecnologías](#tecnologías)
+4. [IDE](#ide)
+5. [Instalación](#instalación)
+6. [Demo](#demo)
+7. [Autor(es)](#)
 8. [Institución Académica]()
 
 
