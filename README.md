@@ -1,4 +1,4 @@
-![Banner](images/portada-web.png)
+![Banner](http://www.madarme.co/portada-web.png)
 # Título del Proyecto
 ### Curriculum Vitae
 
